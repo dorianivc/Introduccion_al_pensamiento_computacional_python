@@ -1,1 +1,3 @@
-# Introduccion_al_pensamiento_computacional_python
+# Introduccion al pensamiento computacional con Python
+	Un pequeño overview de algunos algoritmos funcionales de busqueda
+	
